@@ -1,7 +1,7 @@
 
 Homepage: 
 --------
-http://sites.google.com/site/richardhenwood/svg2latex2
+https://sites.google.com/site/richardhenwood/project/svg2latex2?authuser=0
 
 Example inclusion:
 -----------------
